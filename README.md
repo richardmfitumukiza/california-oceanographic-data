@@ -1,4 +1,4 @@
 # california-oceanographic-data
-Tasked to predict ocean salinity, based on oceanographic timeseries data, that spans 60 years  
-Applied Machine Learning algorithms like linear regression, and maticulously cleaned the data.
-Achieved a 100% accuracy predictions.
+Tasked to predict ocean salinity, based on oceanographic timeseries data, that spans over 60 years.  
+I maticulously cleaned the data and applied Machine Learning algorithms.
+I achieved a 99% accuracy predictions.
